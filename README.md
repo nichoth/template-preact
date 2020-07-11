@@ -12,3 +12,7 @@ rm -rf .git
 git init
 ```
 
+[htm component syntax](https://github.com/developit/htm#syntax-like-jsx-but-also-lit)
+
+
+
