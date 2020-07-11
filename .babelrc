@@ -12,6 +12,7 @@
         }]
     ],
     "presets": [
+        "react",
         ["@babel/preset-env", {
             "targets": {
                 "browsers": [
